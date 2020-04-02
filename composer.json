@@ -1,0 +1,17 @@
+{
+    "name": "lambq\/phpquery",
+    "description": "lambq phpquery sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lambq",
+            "email": "415113157@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lambq\\Phpquery\\": "src"
+        }
+    }
+}
